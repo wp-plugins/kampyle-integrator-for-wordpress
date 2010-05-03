@@ -1,7 +1,7 @@
 === Kampyle Integrator for WordPress ===
 Contributors: Peter Bui
 Donate link: http://www.pbwebdev.com.au/blog/kampyle-integrator-for-wordpress.html
-Tags: Kampyle, feedback, analytics, analytics, pb web development
+Tags: Kampyle, feedback, analytics, analytics, feedback form, survey, pb web development 
 Requires at least: 2.7
 Tested up to: 2.7
 Stable tag: 1.0
