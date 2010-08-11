@@ -29,10 +29,7 @@ If you do not have a Kampyle account, start here:
 
 == Screenshots == 
 
-http://www.pbwebdev.com.au/blog/wp-content/uploads/2010/04/1.-kampyle-feedback-button.png
-
-http://www.pbwebdev.com.au/blog/wp-content/uploads/2010/04/2.-four-feedback-forms.jpg
-
-http://www.pbwebdev.com.au/blog/wp-content/uploads/2010/04/3.-feedback-dashboard.jpg
-
-http://www.pbwebdev.com.au/blog/wp-content/uploads/2010/04/4.-Plugin-screenshot.png
+1. Kampyle Logo
+2. Feedback dashboard
+3. Kampyle reports
+4. Wordpress Kampyle configuration screen
