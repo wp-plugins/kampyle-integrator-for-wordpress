@@ -1,4 +1,4 @@
-=== Kampyle Integrator for WordPress ===
+=== Free Feedback Form Plugin ===
 Contributors: Peter Bui
 Donate link: http://www.pbwebdev.com.au/blog/kampyle-integrator-for-wordpress.html
 Tags: Kampyle, feedback, analytics, analytics, feedback form, survey, pb web development 
