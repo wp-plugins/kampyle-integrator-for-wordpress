@@ -1,6 +1,6 @@
 === Free Feedback Form Plugin ===
-Contributors: Peter Bui
-Donate link: http://www.pbwebdev.com.au/blog/kampyle-integrator-for-wordpress.html
+Contributors: Peter Bui - PB Web Development
+Donate link: http://www.pbwebdev.com.au
 Tags: Kampyle, feedback, analytics, analytics, feedback form, survey, pb web development 
 Requires at least: 2.7
 Tested up to: 2.7
@@ -19,7 +19,9 @@ Add the Kampyle code required to integrate it to your WordPress site
 If you do not have a Kampyle account, start here: 
 1. Create a Kampyle account here. https://www.kampyle.com/websites-registration-trial
 2. Set up a feedback form.3. Download the plugin from the WordPress directory and install it. 4. Activate the plugin through the 'Plugins' menu in WordPress.5. Copy the CSS code given on the Kampyle website into the "head" field in the plugin settings6. Copy the Javascript code given on the Kampyle website into the "footer" field in the plugin settings If you already have a Kampyle account, start here: 
-1. Download the plugin from the WordPress directory and install it. 2. Copy the CSS code given on the Kampyle website into the "head" field in the plugin settings3. Copy the Javascript code given on the Kampyle website into the "footer" field in the plugin settings 
+1. Download the plugin from the WordPress directory and install it. 2. Copy the CSS code given on the Kampyle website into the "head" field in the plugin settings3. Copy the Javascript code given on the Kampyle website into the "footer" field in the plugin settings
+
+More information can be found at http://www.pbwebdev.com.au 
 
 == Frequently Asked Questions ==
 <h4>What is Kampyle?</h4>Kampyle is a leading vendor of Online Feedback Analytics, delivering website owners a powerful platform to collect, analyze, measure and manage website users' feedback on services, products and customer experience.
