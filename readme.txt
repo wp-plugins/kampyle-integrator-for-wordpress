@@ -1,24 +1,60 @@
 === Free Feedback Form Plugin ===
-Contributors: Peter Bui - PB Web Development
+Contributors: Peter Bui
 Donate link: http://www.pbwebdev.com.au
-Tags: Crazyegg, heatmap, user tracking, pb web development 
-Requires at least: 3.0
-Tested up to: 3.0
-Stable tag: 1.0
+Tags: Kampyle, feedback, analytics, analytics, feedback form, survey, pb web development 
+Requires at least: 2.7
+Tested up to: 2.7
+Stable tag: 1.1
 
-Add the Crazyegg code required to integrate it to your WordPress site
+Add the Kampyle code required to integrate it to your WordPress site
 
 == Description ==
 
-<h4>Plugin Overview: </h4>This plugin will allow you to integrate in the CrazyEgg integration code into your website without the need of modifying your websites code or themes.
-<h4>CrazyEgg:</h4>CrazyEgg allows you to track your users site usage and see on a visual map just where they are clicking and how they use your website. This in turn will give you an idea of the usability of your website. CrazyEgg does have a subscription fee.
+<h4>Plugin Overview: </h4>
+This plug-in will assist in the implementation of the Kampyle feedback form on your Wordpress site. Simply insert the CSS and JavaScript given by Kampyle to enable the feedback form.
+In order to create the feedback form you will need to register on Kampyle.com.
+
+<h4>Kampyle:</h4>
+Kampyle is a sophisticated feedback analytics service allowing you to understand what users are doing on your site or blog and why.
+After registering on Kampyle.com, simply create your sleek feedback form, implement it, all in under five minutes. Visitors will then click on the attractive button on your site in order to leave feedback. Within Kampyle extensive analytics of the feedback will be at your hands.
 
 == Installation ==
 
 
 If you do not have a Kampyle account, start here: 
-1. Create a CrazyEgg account at: http://www.crazyegg.com
-2. Setup a campaign in CrazyEgg3. Download the plugin from the WordPress directory and install it. 4. Copy the ID code of your Crazygg account into the option for CrazyEgg in your WordPress website and save If you already have a CrazyEgg account, start here: 
-1. Download the plugin from the WordPress directory and install it. 2. Copy the ID code of your Crazygg account into the option for CrazyEgg in your WordPress website and save
 
-More information can be found at http://www.pbwebdev.com.au 
+1. Create a Kampyle account here. https://www.kampyle.com/websites-registration-trial
+2. Set up a feedback form.
+3. Download the plugin from the WordPress directory and install it. 
+4. Activate the plugin through the 'Plugins' menu in WordPress.
+5. Copy the CSS code given on the Kampyle website into the "head" field in the plugin settings
+6. Copy the Javascript code given on the Kampyle website into the "footer" field in the plugin settings
+
+ 
+If you already have a Kampyle account, start here: 
+
+1. Download the plugin from the WordPress directory and install it. 
+2. Copy the CSS code given on the Kampyle website into the "head" field in the plugin settings
+3. Copy the Javascript code given on the Kampyle website into the "footer" field in the plugin settings
+ 
+
+== Frequently Asked Questions ==
+<h4>What is Kampyle?</h4>
+Kampyle is a leading vendor of Online Feedback Analytics, delivering website owners a powerful platform to collect, analyze, measure and manage website users' feedback on services, products and customer experience.
+
+<h4>What is Feedback Analytics?</h4>
+Feedback Analytics is the feedback methodology that brings a comprehensive approach to online customer feedback. The aim of Feedback Analytics is to provide a complete, online, end-to-end customer feedback solution.
+
+<h4>How could Kampyle benefit my site or blog?</h4>
+Understanding what your viewers and customers think of your website is of the utmost value. Kampyle brings you the perfect tool for the task.
+
+<h4>Is Kampyle free or paid?</h4>
+Kampyle offers a free version as well as a Premium version which offers additional features and functionalities.
+For more information check out www.Kampyle.com
+
+== Screenshots == 
+
+1. Kampyle Logo
+2. Feedback dashboard
+3. Kampyle reports
+4. Wordpress Kampyle configuration screen
