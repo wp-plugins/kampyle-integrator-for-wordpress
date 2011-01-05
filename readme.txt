@@ -3,7 +3,7 @@ Contributors: Peter Bui
 Donate link: http://www.pbwebdev.com.au
 Tags: Kampyle, feedback, analytics, analytics, feedback form, survey, pb web development 
 Requires at least: 2.7
-Tested up to: 2.7
+Tested up to: 3.0.4
 Stable tag: 1.1
 
 Add the Kampyle code required to integrate it to your WordPress site
